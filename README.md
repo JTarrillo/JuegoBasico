@@ -1,4 +1,4 @@
-## Flujo del Juego "Corredor Infinito"
+[Flujo del Juego "Corredor Infinito" - Colaboración de Joaquín Tiesi]([https://ejemplo.com](https://github.com/JoaquinTiesi))
 
 - **Inicio del Juego:**
   - El juego comienza con el menú de inicio mostrado.
